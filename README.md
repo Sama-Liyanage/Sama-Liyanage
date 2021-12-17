@@ -1,4 +1,4 @@
-### Hi👽 Hoomans!       I'am Samadhi Nilakshana
+### Hi 👽 Hoomans!       I'am Samadhi Nilakshana
 
 👩‍🎓I am Undergraduate Student at Institute of Software Engineering
 
