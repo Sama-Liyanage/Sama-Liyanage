@@ -3,7 +3,6 @@
       “I am someone who is mature, candid and who has integrity.  Everyday I work to 
       improve myself and my skills which is part of maturing and becoming better at what I do.”</h3>
       
-   <img src="" alt="Myself" width="300">   
      
 
 - 🔭 I’m currently working on **something cool**
